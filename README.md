@@ -17,7 +17,7 @@ This project uses `uv` for package management.
 
    ```bash
    git clone https://github.com/achaldesai/boot-llm-bot
-   cd llm-bot
+   cd boot-llm-bot
    ```
 
 2. Create a virtual environment and install dependencies:
