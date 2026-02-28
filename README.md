@@ -14,12 +14,14 @@ This project uses `uv` for package management.
 ### Installation
 
 1. Clone the repository:
+
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/achaldesai/boot-llm-bot
    cd llm-bot
    ```
 
 2. Create a virtual environment and install dependencies:
+
    ```bash
    uv sync
    ```
